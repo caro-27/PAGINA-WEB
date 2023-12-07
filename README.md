@@ -28,7 +28,8 @@
             <div id="imageCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="imagen1.jpg" alt="Imagen 1" class="d-block w-100">
+                        <img src="![Cadena](https://github.com/caro-27/PAGINA-WEB/assets/151091665/07f7f4b9-d7de-418a-aaaf-188609dce29d)" alt="Imagen 1" class="d-block w-100">
+
                     </div>
                     <div class="carousel-item">
                         <img src="imagen2.jpg" alt="Imagen 2" class="d-block w-100">
